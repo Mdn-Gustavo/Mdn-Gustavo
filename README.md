@@ -29,3 +29,7 @@
 
 ### 📊 GitHub Stats
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdn-Gustavo&show_icons=true&theme=tokyonight)
+
+### Talk to me
+
+- if you wanna talk to me, for various reasons, send me an email on holyboy02@proton.me and i will respond you as quick as possible.
