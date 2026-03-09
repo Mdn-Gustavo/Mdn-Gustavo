@@ -22,7 +22,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
-### 🧠 Interests
+### Interests
 - **Low-level programming** & Kernel tweaking.
 - **Terminal Productivity**: Neovim, SwayWM, and shell scripting.
 - **Bio-optimization**: Following Scotty Optimal's principles for peak performance.
