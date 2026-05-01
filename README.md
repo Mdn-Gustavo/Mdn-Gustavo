@@ -1,4 +1,4 @@
-# Hey there, I'm Gustavo Medina 👋 
+# Heya, I'm Gustavo Medina 👋 
 
 ### About me
 -**University Student** in Brazil.
