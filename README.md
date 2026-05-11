@@ -7,10 +7,10 @@
 
 ### Current Project
 - **[ObligationsAuto](https://github.com/Mdn-Gustavo/ObligationsAuto)**: A system-level notification daemon for Wayland/SwayWM.
+- **[AV-Engine](https://github.com/Mdn-Gustavo/AV-Engine)**: An Anti-Virus Engine based in hashed identification of various viruses.
 
 ### Tech Stack + Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405E.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
