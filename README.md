@@ -6,7 +6,7 @@
 -**Tech Stack**: Focused on low-level systems and terminal-level productivity
 
 ### Current Project
-- **[ObligationsAuto](https://github.com/Mdn-Gustavo/ObligationsAuto)**: A system-level notification daemon for Wayland/SwayWM.
+
 - **[AV-Engine](https://github.com/Mdn-Gustavo/AV-Engine)**: An Anti-Virus Engine based in hashed identification of various viruses.
 
 ### Tech Stack + Tools
